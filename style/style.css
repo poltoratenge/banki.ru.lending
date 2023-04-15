@@ -1,0 +1,42 @@
+.bg-light{
+    background-color: #223046;
+    color: white;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    background-image: url(../white-logo-banki.ru.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 20%;
+    height: 50%;
+}
+
+.body{
+    background-color: #223046;
+    color: white;
+}
+
+.jumbotron{
+    background-color: #223046;
+    color: white;
+}
+
+.container{
+    background-color: #223046;
+    color: white;
+}
+
+.list-group{
+    background-color: #223046;
+    color: white;
+}
+
+.list-group-item{
+    background-color: #223046;
+    color: white;
+}
